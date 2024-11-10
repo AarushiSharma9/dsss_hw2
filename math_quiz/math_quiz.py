@@ -1,6 +1,5 @@
 import random
 
-
 def random_int(min, max):
     """
     Generates a random integer from the min, max range.
